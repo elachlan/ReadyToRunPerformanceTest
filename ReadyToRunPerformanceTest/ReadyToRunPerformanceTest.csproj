@@ -10,10 +10,11 @@
     <RuntimeIdentifier>win-x64</RuntimeIdentifier>
     <PublishReadyToRunShowWarnings>true</PublishReadyToRunShowWarnings>
     <PublishReadyToRunEmitSymbols>true</PublishReadyToRunEmitSymbols>
+    <PublishReadyToRunComposite>true</PublishReadyToRunComposite>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DevExpress.Win" Version="21.2.8" />
+    <PackageReference Include="DevExpress.Win" Version="22.1.4" />
   </ItemGroup>
 
 </Project>
